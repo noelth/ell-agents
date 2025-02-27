@@ -1,8 +1,8 @@
 import ell
 from openai import OpenAI
 
-MODEL = "llama3.1:8b"
-MODEL = "qwen2.5:0.5b"
+MODEL = "llama3.2:3b"
+#MODEL = "qwen2.5:0.5b"
 #MODEL = "phi3.5:latest"
 
 client = OpenAI(
