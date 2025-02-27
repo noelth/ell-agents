@@ -1,5 +1,6 @@
 /.env
-/webscanner/__pycache__
-/webscanner/.env
-/webscanner/sear_results
+/WebScanner/__pycache__
+/WebScanner/.env
+/WebScanner/search_results
 /ell-studio
+/WebScanner/.env
